@@ -24,3 +24,4 @@ Practices](http://www.stat.purdue.edu/~doerge/BIOINFORM.D/SPRING16/KatalWazidGou
 - [Documentacao coorte v2](./materials/documentacao_coorte_v2.doc.pdf)
 - [Processes for Cohort 100M SINASC-SIM construction](./materials/Processes%20for%20Cohort%20100M%20SINASC-SIM%20construction.pdf )
 - [Documentacao SINAN](./materials/Documentacao_sinan.pdf)
+
